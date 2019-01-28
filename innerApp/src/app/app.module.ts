@@ -5,12 +5,14 @@ import { FormsModule } from '@angular/forms';
 import { app_routing } from './app.routes';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './screens/home/home.component';
+import { ProfileComponent } from './screens/profile/profile.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    ProfileComponent
   ],
   imports: [
     FormsModule,
