@@ -6,10 +6,9 @@
 /out-tsc
 /wwwjs
 
-
-/ycapp/www
-/ycapp/dist
-/ycapp/node_modules
+/www
+/innerApp/dist
+/innerApp/node_modules
 
 # dependencies
 /node_modules
